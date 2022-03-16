@@ -15,9 +15,7 @@
                 if(i==0){
                   printf("Infinite loop avoided! \\o/\n");
                   break;
-                }else{
-                    putchar(i);    
+                  i++;
                 }
-                
         }
           
