@@ -9,7 +9,7 @@ int main(void)
 {
         printf("Infinite loop incoming \:\(\n");
 
-        printf("Infinite loop avoided! \\o\/\n");
+        printf("Infinite loop avoided! \\o/\n");
 
         return (0);
 }
