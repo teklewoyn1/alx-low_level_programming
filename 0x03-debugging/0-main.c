@@ -9,7 +9,7 @@ int main(void)
 {
         int i;
 
-        i = rand() - RAND_MAX / 2;
+        i = 100;
         positive_or_negative(i);
 
         return (0);
