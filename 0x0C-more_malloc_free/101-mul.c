@@ -44,7 +44,7 @@ int _strlen(char *s)
  *
  * Return: the length of the string
  */
-int _strlen(char *s)
+int _strlen1(char *s)
 {
 	int i = 0;
 
