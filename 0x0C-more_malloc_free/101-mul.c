@@ -48,6 +48,23 @@ void errors(void)
 }
 
 /**
+ * errors - handles errors for main
+ */
+void errors1(void)
+{
+	printf("Error\n");
+	exit(98);
+}
+
+/**
+ * errors - handles errors for main
+ */
+void errors2(void)
+{
+	printf("Error\n");
+	exit(98);
+}
+/**
  * main - multiplies two positive numbers
  * @argc: number of arguments
  * @argv: array of arguments
