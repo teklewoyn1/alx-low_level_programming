@@ -1,0 +1,1 @@
+This projects are more about singly linked lists.
