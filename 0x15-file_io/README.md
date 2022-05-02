@@ -1,0 +1,1 @@
+This project shows simple file input output in C programming language.
